@@ -1,5 +1,6 @@
 # Cypherpunks and Libertarians: The Dream and Reality of Anonymous Economics
-Abstract
+
+## Abstract
 
 The cypherpunk movement, driven by libertarians, sought to create an anonymous economic sphere on the internet, free from interference by governments and large corporations. However, the tools developed for this purpose—due to technical flaws or their limited appeal to the general public—have deviated from their intended ideals of freedom and autonomy. Instead, they have been repurposed for rights violations and self-serving interests, highlighting the limitations of a purely reason-based economic system. This suggests that the libertarian experiments in this domain may have ultimately failed.
 
