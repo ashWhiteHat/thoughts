@@ -1,3 +1,3 @@
-[mirror](https://cypherpunksmailingli.quora.com/)
+[mirror](https://cypherpunksmailinglist.quora.com/)
 
 Reddit sucks.
