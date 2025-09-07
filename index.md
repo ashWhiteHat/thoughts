@@ -11,21 +11,21 @@ Welcome to my research on crypto economics and cypherpunk philosophy.
 ## Research Papers
 
 ### Crypto Economics
-- [Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets](Crypto%20Economics%3A%20Balancing%20Trustworthy%20and%20Trustless%20Systems%20in%20Anonymous%20Markets.md)
+- [Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets](crypto-economics-trustworthy-trustless-systems.md)
 
 ### Cypherpunk Philosophy
-- [Cypherpunks and Libertarians: Deficiencies in Activities and Unresolved Issues](Cypherpunks%20and%20Libertarians%3A%20Deficiencies%20in%20Activities%20and%20Unresolved%20Issues.md)
-- [Cypherpunks and Libertarians: The Dream and Reality of Anonymous Economics](Cypherpunks%20and%20Libertarians%3A%20The%20Dream%20and%20Reality%20of%20Anonymous%20Economics.md)
-- [Cypherpunks Information Resources](Cypherpunks%20Information%20Resources.md)
+- [Cypherpunks and Libertarians: Deficiencies in Activities and Unresolved Issues](cypherpunks-libertarians-deficiencies.md)
+- [Cypherpunks and Libertarians: The Dream and Reality of Anonymous Economics](cypherpunks-libertarians-dream-reality.md)
+- [Cypherpunks Information Resources](cypherpunks-information-resources.md)
 
 ### Protocol Design
-- [Protocol and Application: Cultural Anthropological Rationality and Protocol Design](Protocol%20and%20Application%3A%20Cultural%20Anthropological%20Rationality%20and%20Protocol%20Design.md)
+- [Protocol and Application: Cultural Anthropological Rationality and Protocol Design](protocol-application-cultural-anthropology.md)
 
 ### Privacy and Anonymity
-- [Pseudonymity and Anonymity](Pseudonymity%20and%20Anonymity.md)
+- [Pseudonymity and Anonymity](pseudonymity-anonymity.md)
 
 ### Political Philosophy
-- [The Transformation of Libertarianism Brought about by Cryptography and the Internet](The%20Transformation%20of%20Libertarianism%20Brought%20about%20by%20Cryptography%20and%20the%20Internet.md)
+- [The Transformation of Libertarianism Brought about by Cryptography and the Internet](transformation-libertarianism-cryptography-internet.md)
 
 ---
 
