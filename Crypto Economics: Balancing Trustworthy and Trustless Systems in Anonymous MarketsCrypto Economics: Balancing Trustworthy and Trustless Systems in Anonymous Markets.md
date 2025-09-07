@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets"
+description: "Analysis of trust-building mechanisms in anonymous economies, focusing on the counterintuitive phenomenon of overwhelmingly positive transaction reviews in anonymous marketplaces."
+date: 2024-01-01
+categories: [crypto-economics, anonymous-markets, trust-mechanisms]
+---
+
 # Abstract
 
 Bitcoin, a cryptocurrency enabling pseudonymous online transactions without identifying individuals, facilitates anonymous transfers. However, the anonymity of transacting parties complicates trust-building, and the absence of legal recourse heightens the risk of fraud and disorderly transactions. Despite this, anonymous marketplaces such as Silk Road and AlphaBay exhibit a phenomenon where transaction reviews are overwhelmingly positive. This paper analyzes the trust-building mechanisms in anonymous economies, focusing on this counterintuitive phenomenon. Specifically, it examines mechanisms relying on trustworthiness rather than strict trustlessness, identifies unresolved challenges, and proposes directions for future research.

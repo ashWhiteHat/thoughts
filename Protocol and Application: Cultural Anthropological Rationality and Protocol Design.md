@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Protocol and Application: Cultural Anthropological Rationality and Protocol Design"
+description: "Analysis of rule design in cryptoeconomics, focusing on securities as rules in historical social systems and their geopolitical context."
+date: 2024-01-01
+categories: [protocol-design, cryptoeconomics, cultural-anthropology]
+---
+
 # Overview
 
 The Cypherpunk movement led to the discovery of cryptoeconomics, replacing part of rules that were previously enforced by institutions such as governments and courts with cryptographic technology and computer protocols, enabling autonomous and decentralized operations. However, while discussions on execution technologies are active, there is a lack of debate on what rules should be established from what perspectives. In this paper, as part of our consideration of rule design, we focus on securities as rules in historical social systems and analyze what mechanisms were proposed based on the geopolitical context at the time and why they became widespread, using the example of Bitcoin.

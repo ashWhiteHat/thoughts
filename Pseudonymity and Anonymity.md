@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Pseudonymity and Anonymity"
+description: "Understanding the different levels of privacy in digital systems, from pseudonymous to anonymous transactions."
+date: 2024-01-01
+categories: [privacy, anonymity, digital-identity]
+---
+
 # Pseudonymity and Anonymity
 
 ## Pseudonymity

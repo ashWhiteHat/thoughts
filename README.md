@@ -1,3 +1,2 @@
-[mirror](https://cypherpunksmailinglist.quora.com/)
-
 Reddit sucks.
+Quora sucks.

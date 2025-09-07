@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Cypherpunks Information Resources"
+description: "A comprehensive collection of key cypherpunk documents and resources from the movement's history."
+date: 2024-01-01
+categories: [cypherpunk, resources, history]
+---
+
 # Cypherpunks Information Resources
 
 - 1982: Blind Signatures for Untraceable Payments by David Chaum

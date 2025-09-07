@@ -1,3 +1,11 @@
+---
+layout: default
+title: "The Transformation of Libertarianism Brought about by Cryptography and the Internet"
+description: "Analysis of how cryptography and the internet have made libertarian and anarchist ideologies more feasible, potentially revolutionizing political systems."
+date: 2024-01-01
+categories: [libertarianism, cryptography, political-philosophy]
+---
+
 # The Transformation of Libertarianism Brought about by Cryptography and the Internet
 
 ## Overview

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Cypherpunks and Libertarians: Deficiencies in Activities and Unresolved Issues"
+description: "Analysis of challenges in the cypherpunk movement including diversity of thought, misuse of technology, and difficulties in adoption."
+date: 2024-01-01
+categories: [cypherpunk, libertarianism, technology-philosophy]
+---
+
 # Cypherpunks and Libertarians: Deficiencies in Activities and Unresolved Issues
 
 ## Overview
