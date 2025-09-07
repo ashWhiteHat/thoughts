@@ -16,6 +16,7 @@ description: "Crypto Economics and Cypherpunk Research"
 
 ### Protocol Design
 - [Protocol and Application: Cultural Anthropological Rationality and Protocol Design](contents/protocol-application-cultural-anthropology.md)
+- [Smart Contracts: Ethereum's Failures and Contract Design in the Anonymous Economy](contents/contract-design-in-anonymous-economy.md)
 
 ### Privacy and Anonymity
 - [Pseudonymity and Anonymity](contents/pseudonymity-anonymity.md)

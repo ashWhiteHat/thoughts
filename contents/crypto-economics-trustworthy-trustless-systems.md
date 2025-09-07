@@ -2,7 +2,7 @@
 layout: default
 title: "Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets"
 description: "Analysis of trust-building mechanisms in anonymous economies, focusing on the counterintuitive phenomenon of overwhelmingly positive transaction reviews in anonymous marketplaces."
-date: 2024-01-01
+date: 2025-08-18
 categories: [crypto-economics, anonymous-markets, trust-mechanisms]
 ---
 

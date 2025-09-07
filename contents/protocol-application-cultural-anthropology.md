@@ -2,7 +2,7 @@
 layout: default
 title: "Protocol and Application: Cultural Anthropological Rationality and Protocol Design"
 description: "Analysis of rule design in cryptoeconomics, focusing on securities as rules in historical social systems and their geopolitical context."
-date: 2024-01-01
+date: 2025-08-14
 categories: [protocol-design, cryptoeconomics, cultural-anthropology]
 ---
 

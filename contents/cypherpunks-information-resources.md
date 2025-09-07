@@ -2,7 +2,7 @@
 layout: default
 title: "Cypherpunks Information Resources"
 description: "A comprehensive collection of key cypherpunk documents and resources from the movement's history."
-date: 2024-01-01
+date: 2024-08-04
 categories: [cypherpunk, resources, history]
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: "Cypherpunks and Libertarians: The Dream and Reality of Anonymous Economics"
 description: "Analysis of how cypherpunk tools have deviated from their intended ideals and the limitations of purely reason-based economic systems."
-date: 2024-01-01
+date: 2025-08-05
 categories: [cypherpunk, libertarianism, anonymous-economics]
 ---
 
