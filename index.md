@@ -7,21 +7,21 @@ description: "Crypto Economics and Cypherpunk Research"
 # Cypherpunk Research
 
 ### Crypto Economics
-- [Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets](crypto-economics-trustworthy-trustless-systems.md)
+- [Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets](contents/crypto-economics-trustworthy-trustless-systems.md)
 
 ### Cypherpunk Philosophy
-- [Cypherpunks and Libertarians: Deficiencies in Activities and Unresolved Issues](cypherpunks-libertarians-deficiencies.md)
-- [Cypherpunks and Libertarians: The Dream and Reality of Anonymous Economics](cypherpunks-libertarians-dream-reality.md)
-- [Cypherpunks Information Resources](cypherpunks-information-resources.md)
+- [Cypherpunks and Libertarians: Deficiencies in Activities and Unresolved Issues](contents/cypherpunks-libertarians-deficiencies.md)
+- [Cypherpunks and Libertarians: The Dream and Reality of Anonymous Economics](contents/cypherpunks-libertarians-dream-reality.md)
+- [Cypherpunks Information Resources](contents/cypherpunks-information-resources.md)
 
 ### Protocol Design
-- [Protocol and Application: Cultural Anthropological Rationality and Protocol Design](protocol-application-cultural-anthropology.md)
+- [Protocol and Application: Cultural Anthropological Rationality and Protocol Design](contents/protocol-application-cultural-anthropology.md)
 
 ### Privacy and Anonymity
-- [Pseudonymity and Anonymity](pseudonymity-anonymity.md)
+- [Pseudonymity and Anonymity](contents/pseudonymity-anonymity.md)
 
 ### Political Philosophy
-- [The Transformation of Libertarianism Brought about by Cryptography and the Internet](transformation-libertarianism-cryptography-internet.md)
+- [The Transformation of Libertarianism Brought about by Cryptography and the Internet](contents/transformation-libertarianism-cryptography-internet.md)
 
 ---
 
