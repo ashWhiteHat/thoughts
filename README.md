@@ -1,2 +1,1 @@
-Reddit sucks.
-Quora sucks.
+Reddit and Quora suck.

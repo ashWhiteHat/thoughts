@@ -1,14 +1,10 @@
 ---
 layout: default
-title: "Ash WhiteHat"
+title: "Cypherpunk"
 description: "Crypto Economics and Cypherpunk Research"
 ---
 
-# Ash WhiteHat
-
-Welcome to my research on crypto economics and cypherpunk philosophy.
-
-## Research Papers
+# Cypherpunk Research
 
 ### Crypto Economics
 - [Crypto Economics: Balancing Trustworthy and Trustless Systems in Anonymous Markets](crypto-economics-trustworthy-trustless-systems.md)
